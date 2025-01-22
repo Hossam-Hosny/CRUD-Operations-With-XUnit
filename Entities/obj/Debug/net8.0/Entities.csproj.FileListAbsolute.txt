@@ -9,3 +9,4 @@ C:\Users\java\Desktop\Harsha Barsha\Section 15\Revision\CRUDSolution\Entities\ob
 C:\Users\java\Desktop\Harsha Barsha\Section 15\Revision\CRUDSolution\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\java\Desktop\Harsha Barsha\Section 15\Revision\CRUDSolution\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\java\Desktop\Harsha Barsha\Section 15\Revision\CRUDSolution\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\java\Desktop\Harsha Barsha\Section 15\Revision\CRUDSolution\Entities\obj\Debug\net8.0\Entities.sourcelink.json
